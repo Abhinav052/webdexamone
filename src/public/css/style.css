@@ -1,0 +1,34 @@
+#main {
+  border: 2px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 15px;
+  background-color: black;
+}
+
+#main-div {
+  width: 320px;
+  height: 100px;
+  background-color: azure;
+
+  border: 2px solid black;
+}
+h1 {
+  margin-left: 10%;
+  margin-top: 5%;
+}
+#frm {
+  width: 50%;
+  margin-left: 10%;
+}
+.he {
+  width: 100%;
+  height: 10vh;
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+  font-size: xx-large;
+  font-weight: bolder;
+  margin-bottom: 5vh;
+}
